@@ -1,0 +1,5 @@
+/home/javacasm/AndroidStudioProjects/TT51/app/build/intermediates/classes/debug
+/home/javacasm/AndroidStudioProjects/TT51/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-f542131b9bbe33cbf9d7d857081b1fc07ca2d86e.jar
+/home/javacasm/AndroidStudioProjects/TT51/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-4aa68b0f7c3f5a81ef63615addcc6ebce8ded5ec.jar
+/home/javacasm/AndroidStudioProjects/TT51/app/build/intermediates/pre-dexed/debug/classes-e106c472e52ced6bbc5cc543ea797f31bc55327c.jar
+/home/javacasm/AndroidStudioProjects/TT51/app/build/intermediates/pre-dexed/debug/classes-1c1345072d23168e5a48fcee1d93a85e74d1a245.jar
