@@ -40,5 +40,7 @@ public class MainActivity extends ActionBarActivity {
     {
         Button btOK=(Button)findViewById(R.id.btOK);
 
+
+
     }
 }
