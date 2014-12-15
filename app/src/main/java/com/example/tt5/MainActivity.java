@@ -39,7 +39,7 @@ public class MainActivity extends ActionBarActivity {
     public void onClicOk(View v)
     {
         Button btOK=(Button)findViewById(R.id.btOK);
-
+        Button btCancel=(Button)findViewById(R.id.btCancel);
 
 
     }

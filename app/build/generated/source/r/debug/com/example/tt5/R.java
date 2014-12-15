@@ -832,7 +832,7 @@ containing a value of this type.
         public static final int always=0x7f080013;
         public static final int beginning=0x7f08000f;
         public static final int btOK=0x7f080041;
-        public static final int button=0x7f080040;
+        public static final int btCancel =0x7f080040;
         public static final int checkbox=0x7f08002d;
         public static final int collapseActionView=0x7f080014;
         public static final int default_activity_button=0x7f080028;

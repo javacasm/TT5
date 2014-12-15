@@ -49,8 +49,8 @@
         android:ems="10"
         android:id="@+id/etPasswd"
         android:layout_alignBottom="@+id/tvPassword"
-        android:layout_alignLeft="@+id/button"
-        android:layout_alignStart="@+id/button" />
+        android:layout_alignLeft="@+id/btCancel"
+        android:layout_alignStart="@+id/btCancel" />
 
     <Button
         android:id="@+id/btOK"
@@ -63,7 +63,7 @@
         android:layout_marginBottom="96dp" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btCancel"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/buttonCancel"
