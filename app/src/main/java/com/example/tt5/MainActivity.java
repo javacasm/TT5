@@ -41,7 +41,8 @@ public class MainActivity extends ActionBarActivity {
     {
         Button btOK=(Button)findViewById(R.id.btOK);
         TextView tvName=(TextView)findViewById(R.id.tvNombre);
-        String strName=tvName.getText();
+        String strName=tvName.getText().toString();
+
 
     }
 
