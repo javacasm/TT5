@@ -43,6 +43,9 @@ public class MainActivity extends ActionBarActivity {
         TextView tvName=(TextView)findViewById(R.id.tvNombre);
         String strName=tvName.getText().toString();
 
+        TextView tvPasswd=(TextView)findViewById(R.id.tvPassword);
+        String strPasswd=tvName.getText().toString();
+
 
     }
 
